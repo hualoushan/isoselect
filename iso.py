@@ -1,5 +1,9 @@
 #!usr/bin/env python3
 # -*- coding:utf-8 -*-
+"""
+    copyright:hualoushan
+    date:2020-08-06
+"""
 
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
